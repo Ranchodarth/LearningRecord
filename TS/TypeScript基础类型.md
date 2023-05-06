@@ -65,3 +65,5 @@ function f1 (): void {} //void 表示期望没有返回值
 >
 > void不可赋值给其他类型
 
+
+
